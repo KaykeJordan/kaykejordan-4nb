@@ -4,6 +4,8 @@
 ## Descrição
 Este projeto é um backend desenvolvido em TypeScript seguindo a arquitetura MVC (Model-View-Controller), conectado a um banco de dados relacional e com autenticação utilizando PostgreeSQL.
 
+ - Repositório do front-end [(https://github.com/KaykeJordan/front-projetct-4nb](https://github.com/KaykeJordan/front-projetct-4nb).
+
 ## Estrutura do Projeto
 - **Controller**: Lida com as requisições HTTP.
 - **Routes**: Define as rotas e direciona as requisições.
