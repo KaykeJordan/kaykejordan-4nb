@@ -1,0 +1,8 @@
+### Dados Da tabela Users
+curl -X GET http://localhost:3000/users
+
+### Registrar User
+curl -X POST http://localhost:3000/register -H "Content-Type: application/json" -d '{"name": "Nathan", "email": "nathan@example.com", "password": "nathanSecure"}'
+
+### Login User
+curl -X POST http://localhost:3000/login -H "Content-Type: application/json" -d '{"email": "nathan@example.com", "password": "nathanSecure"}'
